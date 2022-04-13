@@ -1,5 +1,5 @@
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm **Saad El Kharraz**, a 20 years old guy from Italy who after graduating from High School in Computer Science discovered a passion for Data and therefore  decided to pursue a career in Data Analysis. <br>
+I'm **Saad El Kharraz**, a 20 years old guy from Italy who after graduating from High School in Computer Science discovered a passion for Data and decided to pursue a career in Data Analysis. <br>
 Check out my<a href="https://github.com/ElkSaad/Data-Analyst-Portfolio"> Data Analyst Portfolio</a>.
 
 **Contacts**
