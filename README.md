@@ -11,9 +11,14 @@ Check out my <a href="https://github.com/ElkSaad/Data-Analyst-Portfolio"> portfo
 
 If you would like to get in touch with me, feel free to connect with me on LinkedIn or send me an email.
 
-<img align="left"  width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/linkedin-512.png"/> LinkedIn
+<img align="left"  width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/linkedin-512.png"/> <a href="https://www.linkedin.com/in/elkharrazsaad/">LinkedIn</a> 
+ <br>
+ <br>
+<img align="left"  width="30px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/>
+<a href="mailto:elkharrazsaad1@gmail.com">Gmail</a>
+<br>
+ <br>
 
-<img align="left"  width="30px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/> Gmail
 
 
 Looking forward to connecting with you!
