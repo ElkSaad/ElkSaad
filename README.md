@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm **Saad El Kharraz**, a 21-year-old data analyst based in Spain. After graduating from high school with a degree in Computer Science, I developed a passion for data and decided to pursue a career in Data Analysis.
 
