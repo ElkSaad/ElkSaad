@@ -4,7 +4,7 @@ I'm **Saad El Kharraz**, a 21-year-old data analyst based in Spain. After gradua
 
 I am a certified Google Data Analytics Professional and have completed a comprehensive course in Python for Data Science and Machine Learning. I have honed my skills in data analysis, data visualization, and machine learning techniques.
 
-Check out my <a href="https://github.com/ElkSaad/Data-Analyst-Portfolio"> portfolio</a> to see some of the data analysis projects that I have completed independently, as well as in collaboration with other data analysts. My projects showcase my proficiency in working with real-world datasets, data cleaning, data manipulation, exploratory data analysis, and visualization.
+Check out my <a href="https://github.com/ElkSaad/Portfolio_Data_Analysis"> portfolio</a> to see some of the data analysis projects that I have completed independently, as well as in collaboration with other data analysts. My projects showcase my proficiency in working with real-world datasets, data cleaning, data manipulation, exploratory data analysis, and visualization.
 
 
 **Contact Me**
